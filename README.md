@@ -4,7 +4,7 @@ This repository contains MATLAB scripts and tools for analyzing the **performanc
 
 ---
 
-## ✈Overview
+## Overview
 
 The project models and analyzes the following performance aspects of a turboprop aircraft:
 
